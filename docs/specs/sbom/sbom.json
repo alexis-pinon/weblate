@@ -1,7 +1,7 @@
 {
   "bomFormat": "CycloneDX",
   "specVersion": "1.6",
-  "serialNumber": "urn:uuid:676bdd57-cda8-5bd1-932a-59e41e796ce5",
+  "serialNumber": "urn:uuid:c63ca4bb-d9e1-5d2b-83de-a0278d03103d",
   "version": 1,
   "metadata": {
     "tools": [
@@ -2247,10 +2247,10 @@
     },
     {
       "type": "library",
-      "bom-ref": "pyparsing-149@3.2.5",
+      "bom-ref": "pyparsing-149@3.3.1",
       "name": "pyparsing",
-      "version": "3.2.5",
-      "purl": "pkg:pypi/pyparsing@3.2.5"
+      "version": "3.3.1",
+      "purl": "pkg:pypi/pyparsing@3.3.1"
     },
     {
       "type": "library",
@@ -3779,7 +3779,7 @@
       ]
     },
     {
-      "ref": "pyparsing-149@3.2.5",
+      "ref": "pyparsing-149@3.3.1",
       "dependsOn": []
     },
     {
@@ -4191,7 +4191,7 @@
         "pygments-144@2.19.2",
         "pygobject-145@3.54.5",
         "pyicumessageformat-146@1.0.0",
-        "pyparsing-149@3.2.5",
+        "pyparsing-149@3.3.1",
         "python-akismet-151@0.4.3",
         "python-dateutil-153@2.9.0.post0",
         "python3-saml-156@1.16.0",
